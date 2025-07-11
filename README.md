@@ -16,7 +16,7 @@ A simple responsive website to check which GitHub users **you are following but 
 
 ## Demo
 
-[View Live Demo](https://your-project-url.netlify.app)
+[View Live Demo](https://followers-tracker-omega.vercel.app/)
 
 
 
@@ -69,4 +69,4 @@ Feel free to use, modify, and share.
 ## Author
 
 - **Dhrubaraj Pati**
-- [Your GitHub Profile](https://github.com/codewithdhruba01)
+- [GitHub Profile](https://github.com/codewithdhruba01)
